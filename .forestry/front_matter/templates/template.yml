@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: content
+pages:
+- dev-notes/title.md
